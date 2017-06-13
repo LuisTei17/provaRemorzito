@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/root/AndroidStudioProjects/ProvaRemorzinho/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/root/AndroidStudioProjects/ProvaRemorzinho/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/ProvaRemorzinho/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/root/AndroidStudioProjects/ProvaRemorzinho/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

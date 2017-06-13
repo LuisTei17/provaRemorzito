@@ -1,0 +1,7 @@
+#Tue Jun 13 09:24:12 BRT 2017
+base.0=/root/AndroidStudioProjects/ProvaRemorzinho/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5e2d8134cbdd2a14c3f59b56c56801ab682995f7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/root/AndroidStudioProjects/ProvaRemorzinho/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ae4f41a815d91f03cc7d53c4f5bec50877307b30/classes.dex
+base.1=/root/AndroidStudioProjects/ProvaRemorzinho/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ae4f41a815d91f03cc7d53c4f5bec50877307b30
+file.0=/root/AndroidStudioProjects/ProvaRemorzinho/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5e2d8134cbdd2a14c3f59b56c56801ab682995f7/classes.dex
